@@ -1,2 +1,2 @@
 Tittle:Moc Server
-VErsion:1
+Version:1
